@@ -1,6 +1,3 @@
-> [!CAUTION]
-> Mozete da kopirate sadrzaj ovog fajla u README.md fajl projekta kako bi ljudima koji pregledaju vas projekat na GitHub-u bilo jasnije koja je njegova poenta. OBAVEZNO obrisite ovaj komentar pre nego sto commit-ujete promenu README.md fajla.
-
 JavaScript app simulating data insertion into an SQL table with secure password hashing using bcryptjs.
 
 ## Want to give it a try?
