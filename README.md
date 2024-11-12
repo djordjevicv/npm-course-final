@@ -2,7 +2,7 @@
 
 This project was developed as part of the online course "npm" in collaboration with [Krojačeva škola](https://www.krojacevaskola.com/) online learning platform.
 
-<b>JavaScript </b> app simulating data insertion into an <b>SQL </b> table with secure password hashing using realized utilizing <b>bcryptjs</b>.
+<b>JavaScript </b> app simulating data insertion into an <b>SQL</b> table with secure password hashing using realized utilizing <b>bcryptjs</b>.
 
 ## Want to give it a try?
 Follow these steps:
