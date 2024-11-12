@@ -4,9 +4,10 @@ This project was developed as part of the online course "npm" in collaboration w
 
 <b>JavaScript </b> app simulating data insertion into an <b>SQL</b> table with secure password hashing using realized utilizing <b>bcryptjs</b>.
 
+## Screenshots
 
 ![npm - screenshot 1](https://raw.githubusercontent.com/djordjevicv/npm-course-final/refs/heads/screenshots/npm-screenshots/npm1.png "npm - screenshot 1")
-![npm - screenshot 2](https://raw.githubusercontent.com/djordjevicv/npm-course-final/refs/heads/screenshots/npm-screenshots/npm1.png "npm - screenshot 2")
+![npm - screenshot 2](https://raw.githubusercontent.com/djordjevicv/npm-course-final/refs/heads/screenshots/npm-screenshots/npm2.png "npm - screenshot 2")
 
 ## Want to give it a try?
 
